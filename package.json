@@ -1,0 +1,8 @@
+{
+    "name": "converter",
+    "version": "1.0.0",
+    "author": "klokov",
+    "dependencies": {
+        "xml2js": "^0.4.23"
+    }
+}
